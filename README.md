@@ -12,6 +12,7 @@
       },
       "occupation": "Data Analyst/Fullstack Developer",
       "studying": "Computer Science, 7th period at @pucminas",
+      "profilePage": "https://rossijr.github.io/portfolio-default/",
       "focus": [
          "Python",
          "SQL",
@@ -26,7 +27,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">
-<img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=79ff97&amp;link=https://www.linkedin.com/in/pedroh29" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=79ff97&amp;link=https://www.linkedin.com/in/josefernandorossi" style="max-width:100%;">
 
 <a href="https://discordapp.com/users/261526981701533697" target="_blank" alt="Discord">
 <img src= "https://img.shields.io/badge/-Discord-1a1a1a?style=for-the-badge&amp;logo=Discord&amp;logoColor=79ff97&amp;link=https://discordapp.com/users/261526981701533697" style="max-width:100%;">
