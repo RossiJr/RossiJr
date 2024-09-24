@@ -1,29 +1,60 @@
-<h1>👋 Hello world!</h1>
+<h1>Hi there! 🤩</h1>
+
+<h3>Thank you for checking out my profile 👍 ...</h3>
+
+</br>
+
+<h3>... here you can find some information about me and my skills 🤓🥷  ...</h3>
+
 
 ```json
 {
    "bio":{
       "name": "José Fernando",
-      "age": 20,
+      "age": 21,
       "location": {
          "city": "Belo Horizonte",
          "state": "MG",
          "country": "Brazil"
       },
-      "occupation": "Data Analyst/Fullstack Developer",
-      "studying": "Computer Science, 7th period at @pucminas",
-      "profilePage": "https://rossijr.github.io/portfolio-default/",
+      "occupation": "Software Engineer",
+      "studying": "B. Sc. Computer Science",
+      "profilePage": "linkedin.com/in/josefernandorossi",
+      "howToContact": "mailto:josefernando53@hotmail.com"
       "focus": [
-         "Python",
-         "SQL",
          "Java",
          "SpringBoot",
          "JPA",
+         "Python",
          "Pandas"
+         "SQL",
+         "JavaScript",
+         "React.js",
+         "CSS/HTML",
+      ],
+      "hobbies": [
+         "Jiu-Jitsu",
+         "Muay-Thai",
+         "Geopolitcs",
+         "Cybersecurity",
       ]
    }
 }
 ```
+
+<h3>... 😁 at this point, you might think you already know me 😋 ...</h3>
+
+</br>
+
+<h3><b>B U T</b></h3>
+
+</br>
+
+<h3>... I still have a lot more to show you!! 😎✌️</h3>
+
+</br>
+
+<h2>You can contact me on <a href="mailto:josefernando53@hotmail.com" href="_blank">my mail</a>!! (also on <a href="https://discordapp.com/users/261526981701533697" target="_blank" alt="Discord">Discord</a> or <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">LinkedIn)</a></h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">
@@ -36,7 +67,19 @@
 
 </br>
 
-<h1>💻 Knowledge</h1>
+<h1>📊‍ Check out my Statistics</h1>
+
+<p align="center">
+<!-----
+<img height="145em" src="https://github-readme-stats.vercel.app/api/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&include_all_commits=true">-->
+ 
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&langs_count=10&layout=compact">
+</center>
+</p>
+
+</br>
+
+<h1>💻 Now, see some important knowledge I have...</h1>
 
 <h3 align="left">Languages</h3>
 
@@ -68,12 +111,11 @@
 
 </br>
 
-<h1>🐈‍ Statistics</h1>
-
+<h3>Of course, a big part of my skills is not here, so do not hesitate to reach out and talk to me!!!</h3>
 <p align="center">
-<!-----
-<img height="145em" src="https://github-readme-stats.vercel.app/api/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&include_all_commits=true">-->
- 
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&langs_count=10&layout=compact">
-</center>
-</p>
+<a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=79ff97&amp;link=https://www.linkedin.com/in/josefernandorossi" style="max-width:100%;">
+
+</br>
+</br>
+
