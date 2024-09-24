@@ -54,9 +54,12 @@
 
 </br>
 
-<h2>You can contact me on <a href="mailto:josefernando53@hotmail.com" href="_blank">my mail</a>!! (also on <a href="https://discordapp.com/users/261526981701533697" target="_blank" alt="Discord">Discord</a> or <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">LinkedIn)</a></h2>
+<h2>You should contact me on <a href="mailto:josefernando53@hotmail.com" href="_blank">my mail</a>!! (also on <a href="https://discordapp.com/users/261526981701533697" target="_blank" alt="Discord">Discord</a> or <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">LinkedIn</a>)</h2>
 
-<p align="left">
+</br>
+</br>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/josefernandorossi/" target="_blank" alt="LinkedIn">
 <img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=79ff97&amp;link=https://www.linkedin.com/in/josefernandorossi" style="max-width:100%;">
 
@@ -68,15 +71,12 @@
 </br>
 
 <h1>📊‍ Check out my Statistics</h1>
+</br>
 
-<p align="center">
-<!-----
-<img height="145em" src="https://github-readme-stats.vercel.app/api/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&include_all_commits=true">-->
- 
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossiJr&show_icons=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1a1a&border_color=646464&border_radius=10&langs_count=10&layout=compact">
-</center>
-</p>
-
+<div style="display: inline" align="center">
+   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RossiJr&show_icons=true&theme=radical">
+   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossiJr&show_icons=true&hide_title=true&theme=radical&langs_count=6&layout=compact">
+</div>
 </br>
 
 <h1>💻 Now, see some important knowledge I have...</h1>
