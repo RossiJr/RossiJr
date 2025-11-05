@@ -18,15 +18,14 @@
          "country": "Brazil"
       },
       "occupation": "Software Engineer",
-      "studying": "B. Sc. Computer Science",
+      "studied": "B. Sc. Computer Science",
       "profilePage": "linkedin.com/in/josefernandorossi",
       "howToContact": "mailto:josefernando53@hotmail.com"
       "focus": [
          "Java",
          "SpringBoot",
          "JPA",
-         "Python",
-         "Pandas"
+         "Kafka",
          "SQL",
          "JavaScript",
          "React.js",
